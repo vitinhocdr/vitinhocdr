@@ -1,6 +1,5 @@
 ### Oláaa meu nome é Victor Recalcatti 👋
-- 🌱 Atualmente cursando Desenvolvimento de Sistemas pelo IFSC. (presencial)
-- 🌱 cursando Desenvolvimento de Sistemas EAD pelo SENAI-SC
+- 🌱 Atualmente cursando Desenvolvimento de Sistemas pelo IFSC
 - 📫 Estudando TypeScript por fora
 <div>
   <a href="https://github.com/vitinhocdr">
