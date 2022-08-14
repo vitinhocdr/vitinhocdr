@@ -1,6 +1,6 @@
 ### Oláaa meu nome é Victor Recalcatti 👋
 - 🌱 Atualmente cursando Desenvolvimento de Sistemas pelo IFSC
-- 📫 Estudando TypeScript por fora
+- 📫 Estudando PHP a fundo..
 <div>
   <a href="https://github.com/vitinhocdr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitinhocdr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
